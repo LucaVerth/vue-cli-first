@@ -1,6 +1,6 @@
 <template>
   <div class="jumbotron">
-    <img src="http://localhost:8080/img/valle.af2fb78e.jpg" alt="">
+    <img src="https://c4.wallpaperflare.com/wallpaper/581/793/198/alps-aosta-autumn-breuil-cervinia-wallpaper-preview.jpg" alt="">
     <Imagetext/>
   </div>
 </template>
