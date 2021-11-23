@@ -26,7 +26,7 @@ export default {
   box-sizing: border-box;
 }
 #app{
-  width: 80%;
+  width: 60%;
   margin: 0 auto;
   margin-top: 50px;
 }
