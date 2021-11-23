@@ -12,7 +12,7 @@ export default {
 
 <style>
 header{
-  height: 70px;
+  min-height: 70px;
   background-color: royalblue;
   border-radius: 20px;
   line-height: 70px;
